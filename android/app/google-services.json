@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "769031073805",
+    "project_id": "suplieshub",
+    "storage_bucket": "suplieshub.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769031073805:android:458180ebf4f89b2ea72544",
+        "android_client_info": {
+          "package_name": "com.example.suplieshub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769031073805-743f89cm5rsc3o38ffrb2vllugqqmp48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl8-pa2V4p-ddMlrmcGW2_ghxGAB8w5ks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769031073805-743f89cm5rsc3o38ffrb2vllugqqmp48.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
