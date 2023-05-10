@@ -4,13 +4,10 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Hub pour fournitures scolaires
 
-A few resources to get you started if this is your first Flutter project:
+À la fin de chaque année scolaire, les élèves se retrouvent avec leurs vieux livres et outils, un grand nombre d’entre eux devenus inutiles.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Par exemple, lorsqu’il y a un changement de filière, de nombreuses fournitures scolaires sont laissées aux élèves. S’il existait un moyen pour redistribuer ses vieux livres et autres outils (comme les outils nécessaires en géométrie), d’autres élèves pourront les utiliser.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Quelqu’un pour créer une application mobile capable de collecter ces fournitures scolaires, pour les mettre à disposition des étudiants dans le besoin ?
